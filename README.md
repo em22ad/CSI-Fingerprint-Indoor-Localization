@@ -79,8 +79,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Background Research
 
+See link to the base research article.
 ```
-See link to the research article: [https://www.researchgate.net/publication/387083505_Hybrid_CNN-LSTM_based_Robust_Indoor_Pedestrian_Localization_with_CSI_Fingerprint_Maps#fullTextFileContent] 
+http://www.researchgate.net/publication/387083505_Hybrid_CNN-LSTM_based_Robust_Indoor_Pedestrian_Localization_with_CSI_Fingerprint_Maps#fullTextFileContent 
 ```
 
 ## License
